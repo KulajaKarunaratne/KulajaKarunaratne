@@ -1,1 +1,3 @@
-# <center> console.log("Hello! I'm Kulaja"); </center>
+<p align = "center">
+# console.log("Hello! I'm Kulaja");
+</p>
