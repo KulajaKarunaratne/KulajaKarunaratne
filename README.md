@@ -1,3 +1,3 @@
 <h1 align = "center">
-console.log("Hello! I'm Kulaja");
+console.log("Hey!👋🏻 I'm Kulaja 😎");
 </h1>
