@@ -4,7 +4,7 @@
 <br>
 <ul>
   <li>Currently working as a Freelance Backend Engineer for an Electric Car Charging Startup</li>
-  <li>Working on developing my Java and ReactJS Skillset</li>
+  <li>Working on developing my Java and ReactJS skills</li>
 </ul>
 <br>
 <h2>My Techstack</h2>
