@@ -25,7 +25,7 @@
 <h2 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://twitter.com/kuaku_krk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuaku_krk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nkedin.com/in/kulajakarunaratne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/kulajakarunaratne/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13469260/kuaku-krk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13469260/kuaku-krk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kuaku_krk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kuaku_krk/" height="30" width="40" /></a>
+<a href="https://linkedin.com/kulajakarunaratne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/kulajakarunaratne/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13469260/kuaku-krk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13469260/kuaku-krk" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kuaku_krk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kuaku_krk/" height="30" width="40" /></a>
 </p>
